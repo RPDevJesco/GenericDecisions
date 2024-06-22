@@ -1,0 +1,14 @@
+C:\Users\jglov\RiderProjects\GenericDecisions\GenericDecisions\bin\Debug\net8.0\GenericDecisions.exe
+C:\Users\jglov\RiderProjects\GenericDecisions\GenericDecisions\bin\Debug\net8.0\GenericDecisions.deps.json
+C:\Users\jglov\RiderProjects\GenericDecisions\GenericDecisions\bin\Debug\net8.0\GenericDecisions.runtimeconfig.json
+C:\Users\jglov\RiderProjects\GenericDecisions\GenericDecisions\bin\Debug\net8.0\GenericDecisions.dll
+C:\Users\jglov\RiderProjects\GenericDecisions\GenericDecisions\bin\Debug\net8.0\GenericDecisions.pdb
+C:\Users\jglov\RiderProjects\GenericDecisions\GenericDecisions\obj\Debug\net8.0\GenericDecisions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jglov\RiderProjects\GenericDecisions\GenericDecisions\obj\Debug\net8.0\GenericDecisions.AssemblyInfoInputs.cache
+C:\Users\jglov\RiderProjects\GenericDecisions\GenericDecisions\obj\Debug\net8.0\GenericDecisions.AssemblyInfo.cs
+C:\Users\jglov\RiderProjects\GenericDecisions\GenericDecisions\obj\Debug\net8.0\GenericDecisions.csproj.CoreCompileInputs.cache
+C:\Users\jglov\RiderProjects\GenericDecisions\GenericDecisions\obj\Debug\net8.0\GenericDecisions.dll
+C:\Users\jglov\RiderProjects\GenericDecisions\GenericDecisions\obj\Debug\net8.0\refint\GenericDecisions.dll
+C:\Users\jglov\RiderProjects\GenericDecisions\GenericDecisions\obj\Debug\net8.0\GenericDecisions.pdb
+C:\Users\jglov\RiderProjects\GenericDecisions\GenericDecisions\obj\Debug\net8.0\GenericDecisions.genruntimeconfig.cache
+C:\Users\jglov\RiderProjects\GenericDecisions\GenericDecisions\obj\Debug\net8.0\ref\GenericDecisions.dll
